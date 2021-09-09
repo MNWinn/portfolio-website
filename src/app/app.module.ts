@@ -9,6 +9,7 @@ import { ContactComponent } from './contact/contact.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { HomeComponent } from './home/home.component';
 import { NgParticlesModule } from 'ng-particles';
+import { WebsitesComponent } from './websites/websites.component';
 
 
 
@@ -20,7 +21,8 @@ import { NgParticlesModule } from 'ng-particles';
     AboutComponent,
     ContactComponent,
     ProjectsComponent,
-    HomeComponent
+    HomeComponent,
+    WebsitesComponent
   ],
   imports: [
     BrowserModule,
